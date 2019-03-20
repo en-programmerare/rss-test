@@ -7,7 +7,7 @@
 		<link>https://github.com/en-programmerare</link>
 <item>
 <title>RSS-uppdateraren förbättrad</title>
-<pubDate>Wed, 20 Mar 2019 17:57:27 +0001</pubDate>
+<pubDate>Wed, 20 Mar 2019 17:57:27 +0100</pubDate>
 <link>https://github.com/en-programmerare/RSS_Uppdateraren</link>
 <description><![CDATA[Jag har förbättrat min RSS-uppdaterare. Den klarar nu av tidszoner och annan textkodning än UTF-16.]]></description>
 </item>
