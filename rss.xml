@@ -2,14 +2,20 @@
 <rss version="2.0">
 	<channel>
 		<title>Mathias flöde</title>
-		<description>Få de senaste grejerna Mathias bestämmer sig för att skriva här</description>
+		<description>Få de senaste grejerna Mathias bestämmer sig för att skriva här.</description>
 		<language>sv-SE</language>
-		<link>https://github.com/en-programmerare</link>
+		<link>https://github.com/en-programmerare/link>
+<item>
+<title>RSS-uppdateraren förbättrad</title>
+<pubDate>Wed, 20 Mar 2019 17:57:27 +0001</pubDate>
+<link>https://github.com/en-programmerare/RSS_Uppdateraren</link>
+<description><![CDATA[Jag har förbättrat min RSS-uppdaterare. Den klarar nu av tidszoner och annan textkodning än UTF-16.]]></description>
+</item>
+
 <item>
 <title>Jepp, det funkar!</title>
 <pubDate>Sat, 16 mar 2019 20:15:39 EST</pubDate>
 <link>https://github.com/en-programmerare/RSS_Uppdateraren</link>
-<guid>https://github.com/en-programmerare/RSS_Uppdateraren</guid>
 <description><![CDATA[Programmet fungerar. Klicka här för att komma till projektets GitHub!]]></description>
 </item>
 
@@ -17,7 +23,6 @@
 <title>Programmet förhoppningsvis fixat</title>
 <pubDate>Sat, 16 mar 2019 20:03:42 EST</pubDate>
 <link>https://github.com/en-programmerare/RSS_Uppdateraren</link>
-<guid>https://github.com/en-programmerare/RSS_Uppdateraren</guid>
 <description><![CDATA[Programmet som jag skapade i fredags fungerade inte, så nu hoppas jag att jag har fixat det. Annars blir jag sur.]]></description>
 </item>
 	<item>
@@ -31,7 +36,6 @@
 			<title>Gamle Tiburtius</title>
 			<pubDate>Fri, 15 mar 2019 11:55:44 EST</pubDate>
 			<link>https://github.com/en-programmerare/RSS_Uppdateraren</link>
-			<guid>https://github.com/en-programmerare/GamleGubben</guid>
 			<description><![CDATA[Gamle Tiburtius är ett nytt program jag har skapat i Vue.]]></description>
 		</item>
 		<item>
@@ -39,7 +43,6 @@
 			<pubDate>Fri, 15 mar 2019 10:34:00 EST</pubDate>
 			<description><![CDATA[Jag har haft PRAO på Cybercom den här veckan.]]></description>
 			<link>https://github.com/en-programmerare/RSS_Uppdateraren</link>
-			<guid>https://github.com/en-programmerare/RSS_Uppdateraren</guid>
 		</item>
 	</channel>
-</rss>
+</rss> 
